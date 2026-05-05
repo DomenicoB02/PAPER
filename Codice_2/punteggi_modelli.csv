@@ -1,0 +1,16 @@
+modello,task,Accuratezza (%)
+mistral:latest,GSM8K,59.0
+mistral:latest,HellaSwag,76.0
+mistral:latest,HumanEval,80.0
+mistral:latest,MMLU,73.0
+mistral:latest,SQuAD,94.0
+phi3:mini,GSM8K,12.0
+phi3:mini,HellaSwag,25.0
+phi3:mini,HumanEval,30.0
+phi3:mini,MMLU,68.0
+phi3:mini,SQuAD,79.0
+qwen2.5:7b,GSM8K,93.0
+qwen2.5:7b,HellaSwag,77.0
+qwen2.5:7b,HumanEval,95.0
+qwen2.5:7b,MMLU,86.0
+qwen2.5:7b,SQuAD,95.0
