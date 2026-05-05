@@ -1,7 +1,0 @@
-langchain
-langchain-ollama
-langchain-core
-langchain-community
-pydantic
-python-dotenv
-codecarbon
