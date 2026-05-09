@@ -1,6 +1,0 @@
-modello,task,Accuratezza (%)
-qwen2.5:14b,GSM8K,92.0
-qwen2.5:14b,HellaSwag,80.0
-qwen2.5:14b,HumanEval,91.0
-qwen2.5:14b,MMLU,85.0
-qwen2.5:14b,SQuAD,96.0
