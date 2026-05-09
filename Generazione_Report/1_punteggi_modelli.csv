@@ -1,0 +1,16 @@
+modello,task,Media Accuratezza Run (%)
+gemma2:27b,GSM8K,90.33
+gemma2:27b,HellaSwag,60.0
+gemma2:27b,HumanEval,93.0
+gemma2:27b,MMLU,82.33
+gemma2:27b,SQuAD,99.67
+llama3.1,GSM8K,72.0
+llama3.1,HellaSwag,40.33
+llama3.1,HumanEval,87.67
+llama3.1,MMLU,70.33
+llama3.1,SQuAD,94.33
+llama3.2,GSM8K,69.0
+llama3.2,HellaSwag,44.67
+llama3.2,HumanEval,87.0
+llama3.2,MMLU,73.0
+llama3.2,SQuAD,85.0

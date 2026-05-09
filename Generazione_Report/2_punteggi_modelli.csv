@@ -1,0 +1,16 @@
+modello,task,Media Accuratezza Run (%)
+mistral:latest,GSM8K,58.33
+mistral:latest,HellaSwag,74.0
+mistral:latest,HumanEval,81.33
+mistral:latest,MMLU,75.0
+mistral:latest,SQuAD,95.0
+phi3:mini,GSM8K,13.67
+phi3:mini,HellaSwag,27.33
+phi3:mini,HumanEval,31.33
+phi3:mini,MMLU,72.0
+phi3:mini,SQuAD,75.0
+qwen2.5:7b,GSM8K,90.67
+qwen2.5:7b,HellaSwag,75.33
+qwen2.5:7b,HumanEval,95.0
+qwen2.5:7b,MMLU,85.33
+qwen2.5:7b,SQuAD,96.0
